@@ -25325,7 +25325,7 @@ PrefabInstance:
     - target: {fileID: 6338395180069125470, guid: 3a6be2a8dc4257840a5ad4b926cd804a, type: 3}
       propertyPath: _data._objectReferences.Array.data[1]
       value: 
-      objectReference: {fileID: 8300000, guid: 850480111023e754badb4226b79fdb5a, type: 3}
+      objectReference: {fileID: 8300000, guid: 7900b0718a6affe45aeb7f297f35ebb1, type: 3}
     - target: {fileID: 6338395180069125470, guid: 3a6be2a8dc4257840a5ad4b926cd804a, type: 3}
       propertyPath: _data._objectReferences.Array.data[2]
       value: 
@@ -103404,6 +103404,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1399521859297209752, guid: 508602a32c598f448b85ff5b9a9d2d5f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 7900b0718a6affe45aeb7f297f35ebb1, type: 3}
     - target: {fileID: 4408797058699308395, guid: 508602a32c598f448b85ff5b9a9d2d5f, type: 3}
       propertyPath: m_Name
       value: EnemyBOSS
